@@ -20,22 +20,28 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Caixa de Oportunidades: Histórias que Mudam o Futuro
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um podcast onde iremos falar sobre como a Caixa Econômica Federal tem atuado como um banco social, ajudando pessoas a transformar suas vidas. E, claro, vamos conhecer algumas histórias reais que mostram esse impacto. Tudo isso utilizando Inteligência Artificial e programas de geração e edição de áudio.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [ChatGPT](https://chatgpt.com/) para geração de conteúdo
+- [ChatGPT](https://chatgpt.com/) para geração de imagem
+- [TTS Maker](https://ttsmaker.com/) para Text-To-Speech
+- [CapCut](https://www.capcut.com/pt-br/) para edição
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro, utilizei o ChatGPT para criação do conteúdo do Podcast, tanto do título quanto do roteiro.
+Com o conteúdo gerado no ChatGPT, copiei e colei no TTS Maker para geração de áudio.
+Em seguida, gerei uma imagem simbólica, utilizando o ChatGPT.
+Por último, editei o áudio no CapCut, colocando uma boa música de fundo e submeti neste repositório.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Você poderá conferir o resultado deste trabalho em: 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi um desafio muito empolgante e me permitiu conhecer ferramentas que podem ser bem úteis em nosso dia-a-dia, e com o avanço da tecnologia, a tendência é que ela seja cada vez mais aprimorada. Porém, a IA é uma ferramenta facilitadora, e não substituta. Deve ser usada com cautela, bom senso e ética.
 ```
 
 ### Exemplos e Insigths
