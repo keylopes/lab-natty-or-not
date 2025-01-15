@@ -38,7 +38,7 @@ Em seguida, gerei uma imagem simbólica, utilizando o ChatGPT.
 Por último, editei o áudio no CapCut, colocando uma boa música de fundo e submeti neste repositório.
 
 ## 🚀 Resultados
-Você poderá conferir o resultado deste trabalho em: 
+Você poderá conferir o resultado deste trabalho neste repositório, na aba à esquerda, "Podcast_caixa-de-opotunidades".
 
 ## 💭 Reflexão (Opcional)
 Foi um desafio muito empolgante e me permitiu conhecer ferramentas que podem ser bem úteis em nosso dia-a-dia, e com o avanço da tecnologia, a tendência é que ela seja cada vez mais aprimorada. Porém, a IA é uma ferramenta facilitadora, e não substituta. Deve ser usada com cautela, bom senso e ética.
