@@ -28,7 +28,7 @@ Criei um podcast onde iremos falar sobre como a Caixa Econômica Federal tem atu
 ## 🤖 Tecnologias Utilizadas
 - [ChatGPT](https://chatgpt.com/) para geração de conteúdo
 - [ChatGPT](https://chatgpt.com/) para geração de imagem
-- [TTS Maker](https://ttsmaker.com/) para Text-To-Speech
+- [ElevenLabs](https://elevenlabs.io/app) para Text-To-Speech
 - [CapCut](https://www.capcut.com/pt-br/) para edição
 
 ## 🧐 Processo de Criação
